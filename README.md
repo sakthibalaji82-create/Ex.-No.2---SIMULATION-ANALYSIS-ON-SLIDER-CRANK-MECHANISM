@@ -37,7 +37,7 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-##INPUT:
+## INPUT:
 <img width="991" height="305" alt="image" src="https://github.com/user-attachments/assets/4ee40026-2785-4bff-be87-26dda183f7b6" />
 
 ## Output
